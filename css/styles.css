@@ -1,0 +1,29 @@
+.left_bar {
+  float: left;
+  border-style: solid;
+  border-width: thick;
+}
+
+.top_row {
+  border-style: solid;
+  border-width: thick;
+  height: 300px;
+}
+
+.row_two {
+  border-style: solid;
+  border-width: thick;
+  background-color: lightgreen;
+}
+
+.row_three {
+  border-style: solid;
+  border-width: thick;
+  background-color: pink;
+}
+
+.row_four {
+  border-style: solid;
+  border-width: thick;
+  background-color: purple;
+}
